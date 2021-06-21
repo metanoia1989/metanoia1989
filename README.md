@@ -1,4 +1,23 @@
 # Adam Smith
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Adam Smith</h1>
+<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<p align="center">
+     <a href="https://twitter.com/dhanani_brijesh">
+       <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+     </a>
+     <a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
+       <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+     </a>
+     <a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
+       <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+     </a>
+     <a href="https://www.instagram.com/singer_brijesh_dhanani">
+       <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+     </a>
+     <a href="https://youtu.be/X_zgw9GojSc">
+       <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+     </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metanoia1989&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
@@ -48,4 +67,16 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metanoia1989&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=metanoia1989&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
 
-<hr>
+
+🤝🏻 &nbsp;Connect with Me
+-------------------------
+
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
