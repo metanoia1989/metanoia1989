@@ -1,4 +1,3 @@
-# Adam Smith
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Adam Smith</h1>
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 <p align="center">
