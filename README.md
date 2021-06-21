@@ -3,14 +3,17 @@
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 <p align="center">
      <a href="https://twitter.com/dhanani_brijesh">
-       <img align="left" alt="Adam Smith | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+       <img align="left" alt="Adam Smith | Twitter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
      </a>
      <a href="https://www.youtube.com/channel/UCDxantCnwz-_DkCc7u4Cm_w">
-       <img align="left" alt="Adam Smith" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+       <img align="left" alt="Adam Smith" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+     </a>
+     <a href = "mailto: sogaxili@gmail.com">
+          <img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" />
      </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=metanoia1989&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
+
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
@@ -54,6 +57,8 @@
 
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
  -----------------------------------------------------------------------------------------------------
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=metanoia1989&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=metanoia1989&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=metanoia1989&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
