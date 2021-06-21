@@ -3,10 +3,10 @@
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 <p align="center">
      <a href="https://twitter.com/dhanani_brijesh">
-       <img align="left" alt="Adam Smith | Twitter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+       <img align="center" alt="Adam Smith | Twitter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
      </a>
      <a href="https://www.youtube.com/channel/UCDxantCnwz-_DkCc7u4Cm_w">
-       <img align="left" alt="Adam Smith" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+       <img align="center" alt="Adam Smith" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
      </a>
      <a href = "mailto: sogaxili@gmail.com">
           <img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" />
